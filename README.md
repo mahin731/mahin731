@@ -6,7 +6,7 @@
 <!-- SECTION A: ANIMATED HEADER -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60" />
 
-# Hi, I'm Mahin Nandipa
+# Hi, I'm Mahin
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=600&lines=Aerospace+Engineer+%7C+AI+%26+ML+Specialist;UAV+%26+Autonomous+Systems+Engineer;Computer+Vision+%26+Deep+Learning+Dev;Building+the+Future+of+Autonomous+Flight+%F0%9F%9A%80)](https://git.io/typing-svg)
 
